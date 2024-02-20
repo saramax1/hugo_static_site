@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Az In Site Alakia</title>
+    <link>http://localhost:8080/</link>
+    <description>Recent content on Az In Site Alakia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Feb 2024 13:16:28 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:8080/posts/my-first-post/</link>
+      <pubDate>Tue, 20 Feb 2024 13:16:28 +0000</pubDate>
+      <guid>http://localhost:8080/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+    </item>
+  </channel>
+</rss>
